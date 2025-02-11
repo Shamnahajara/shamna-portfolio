@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "2023 Dec - Present",
     role: "Junior Full Stack Developer",
     company: "I4interface",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `I am Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript","TypeScript" ,"React.js", "Next.js", "mongoDB","Svelte"],
   },
 ];
