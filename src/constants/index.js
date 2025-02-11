@@ -22,29 +22,29 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "I developed a full-stack e-commerce website for a company specializing in selling fresh fish and meat. The platform provides a seamless shopping experience where users can browse a wide range of fresh products, add items to their cart, and place orders effortlessly. It includes a secure payment gateway, user authentication, and an efficient order management system",
+    technologies: [ "React","Tailwind CSS","Node.js", "MongoDB","Express" ,"Razorpay","Firebase Authentication","Redux" , "JWT", "Vercel", "Postman" ],
   },
   {
     title: "Business Card Generator",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "I am developing a Business Card Generator as a product for our company, built using Next.js and MongoDB. This platform allows users to create digital business cards and NFC-enabled cards with customizable designs. Additionally, users can host their business cards on a personalized subdomain, making it easy to share their contact details online.",
+    technologies: ["Next.js", "Tailwind CSS", "Clerk", "MongoDB", "Vercel"],
   },
   {
     title: "CRM System",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "I developed a CRM system designed for lead management, appointment scheduling, and team performance tracking. This system helps businesses efficiently manage their sales pipeline, book and track appointments, and analyze team and lead performance through detailed reports and analytics.Key features are  Lead tracking with status updates,Appointment booking and management,Team performance monitoring,Reports and analytics for leads and sales,Role-based access control,Notifications and reminders,",
+    technologies: ["Next.js", "Tailwind CSS", "Shadcn", "Vercel" ,"MongoDB" , "REST API", "JWT" , "Zustand", "Jwt" , "Chart js"],
   },
   {
     title: "Astrology website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "AI developed an astrology website that provides users with detailed zodiac sign descriptions, daily horoscopes, Kundali (birth charts), Prashna (horary astrology), and Kundali charts. The platform integrates astrology APIs and Google Generative AI to offer personalized astrological insights.",
+    technologies: ["Next.js", "TalwindCSS", "google generative AI", "Astro API", "mongodb", "Vercel","Clerk Auth"],
   },
 ];
 
