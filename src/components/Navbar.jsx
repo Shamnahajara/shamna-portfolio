@@ -20,9 +20,6 @@ function Navbar() {
             <a href='https://www.instagram.com/sham_na002?igsh=NWN6aWozY2cwZTI3' target='_blank' rel='nopener noreferrer' aria-label='Instagram'>
                 <FaInstagram/>
             </a>
-            <a href='https://twitter.com' target='_blank' rel='nopener noreferrer' aria-label='Twitter'>
-                <FaXTwitter/>
-            </a>
         </div>
     </nav>
   )

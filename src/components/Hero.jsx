@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../assets/shamnaProfile.jpg";
+import profilePic from "../assets/shamnaProfile.jpeg";
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -47,7 +47,7 @@ function Hero() {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="/resume.pdf"
+              href="/Hajarathu_Shamna-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
